@@ -6,6 +6,7 @@ Organge
 Red 
 Blue 
 Green
+Indigo
 Yellow
 
 These are the colours of the rainbow.
